@@ -1,0 +1,19 @@
+{
+  "name": "zz-fe-interview",
+  "version": "1.0.0",
+  "description": "吱吱前端 面试题合集",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress-theme-reco":"1.6.17",
+    "vuepress-plugin-cursor-effects":"1.1.6",
+    "vuepress": "^1.9.10"
+  }
+}
